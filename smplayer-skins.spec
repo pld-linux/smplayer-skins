@@ -1,11 +1,11 @@
 Summary:	Skins for SMPlayer
 Name:		smplayer-skins
-Version:	20121029
+Version:	20130605
 Release:	1
 License:	GPL v2+
 Group:		Applications/Multimedia
 Source0:	http://downloads.sourceforge.net/smplayer/%{name}-%{version}.tar.bz2
-# Source0-md5:	06ba75b53c7a6e9b64d6f51d05a12a0f
+# Source0-md5:	114ab2a5818da7b427fc7661f1b2658f
 URL:		http://smplayer.sourceforge.net/
 Requires:	smplayer
 BuildArch:	noarch
